@@ -1,0 +1,15 @@
+[project]
+name = "cc-fraud-anomaly-detection"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipywidgets>=8.1.8",
+    "jupyterlab>=4.6.1",
+    "kagglehub>=1.0.2",
+    "matplotlib>=3.11.1",
+    "numpy>=2.5.1",
+    "pandas>=3.0.3",
+    "scikit-learn>=1.9.0",
+]
